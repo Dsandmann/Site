@@ -5,7 +5,7 @@ html {
 body {
     font-family: 'Handlee', cursive;
     font-size: 13pt;
-    background-color: black;    efefef
+    background-color: black;
     padding: 10px;
     margin: 0;
 }
@@ -17,7 +17,7 @@ h1 {
     margin: 0 0 10px 0;
 }
 h1 span {
-    border: 4px dashed #20bcd5;
+    border: 0px dashed #20bcd5;
     padding: 10px;
 }
 p {
@@ -150,29 +150,35 @@ input, textarea {
 }
 
 
-IMG {
-margin-top: 10%;
-padding-top:10px;
-background-position:center;
-}
+
 
 div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
-    float: left;
+    float: center;
     width: 180px;
 }
 
 div.gallery:hover {
-    border: 1px solid #777;
+  margin: auto;
+  width: 10%;
+  border: 0px solid #73AD21;
+  padding: 10px;
 }
 
 div.gallery img {
-    width: 100%;
+    width: 10px;
     height: auto;
 }
 
-div.desc {
-    padding: 15px;
-    text-align: center;
+
+
+
+div.hobbys {
+
+    margin: auto;
+    width: 10%;
+    border: 0px solid #73AD21;
+    padding: 10px;
+
 }
