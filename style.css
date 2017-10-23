@@ -20,16 +20,16 @@ h1 span {
     border: 0px dashed #20bcd5;
     padding: 10px;
 }
-p {
+ {
     padding: 0;
     margin: 0;
 }
 .img-circle {
-    border: 3px solid white ;
+    border: 0px solid  ;   (foto)
     border-radius: 50%;
     background-image: url("https://www.theguardian.com/news/datablog/2015/apr/22/smile-happy-faces-are-top-emoji-choice#img-1");
 
-
+ddas
 }
 .section {
     background-color: #fff;
@@ -159,17 +159,6 @@ div.gallery {
     width: 180px;
 }
 
-div.gallery:hover {
-  margin: auto;
-  width: 10%;
-  border: 0px solid #73AD21;
-  padding: 10px;
-}
-
-div.gallery img {
-    width: 10px;
-    height: auto;
-}
 
 
 
@@ -177,8 +166,6 @@ div.gallery img {
 div.hobbys {
 
     margin: auto;
-    width: 10%;
+    width: 30%;
     border: 0px solid #73AD21;
-    padding: 10px;
-
-}
+    padding: 0px;
